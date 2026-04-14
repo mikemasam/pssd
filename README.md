@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Post-Slop Stress Disorder (PSSD) is a proposed concept describing the cognitive strain and psychological fatigue that may arise from prolonged exposure to low-quality AI-generated output (“slop”), especially in modern software development environments. As AI tools become deeply integrated into workflows, developers are increasingly expected to rely on them for speed and productivity.
+Post-Slop Stress Disorder (PSSD) is a cognitive strain and psychological fatigue that may arise from prolonged exposure to low-quality AI-generated output (“slop”), especially in modern software development environments. As AI tools become deeply integrated into workflows, developers are increasingly expected to rely on them for speed and productivity.
 
 ## Causes
 
